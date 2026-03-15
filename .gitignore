@@ -1,0 +1,12 @@
+.DS_Store
+.build
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+
+Preview/*.png

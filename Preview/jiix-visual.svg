@@ -1,0 +1,113 @@
+<svg width="1600" height="980" viewBox="0 0 1600 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="40" x2="1480" y2="940" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081614"/>
+      <stop offset="0.55" stop-color="#020303"/>
+      <stop offset="1" stop-color="#10111A"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="420" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#26F265"/>
+      <stop offset="1" stop-color="#0C3A2E"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="60" y1="0" x2="420" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111317"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="art" x1="0" y1="0" x2="320" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#39E57B"/>
+      <stop offset="0.5" stop-color="#1B6F59"/>
+      <stop offset="1" stop-color="#40254E"/>
+    </linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="980" fill="url(#bg)"/>
+  <text x="120" y="120" fill="white" font-size="48" font-family="Helvetica, Arial, sans-serif" font-weight="700">JIIX iOS Preview</text>
+  <text x="120" y="160" fill="#98A2B3" font-size="22" font-family="Helvetica, Arial, sans-serif">Konsep visual aplikasi pemutar musik ala streaming seperti JOOX</text>
+
+  <g transform="translate(120 220)" filter="url(#shadow)">
+    <rect width="420" height="820" rx="44" fill="url(#phone)" stroke="#1D2939" stroke-width="3"/>
+    <rect x="152" y="18" width="116" height="24" rx="12" fill="#0A0B0E"/>
+    <text x="34" y="76" fill="white" font-size="20" font-family="Helvetica, Arial, sans-serif" font-weight="700">9:41</text>
+    <text x="44" y="118" fill="white" font-size="34" font-family="Helvetica, Arial, sans-serif" font-weight="700">JIIX</text>
+
+    <rect x="28" y="146" width="364" height="210" rx="28" fill="url(#hero)"/>
+    <text x="52" y="186" fill="#D1FADF" font-size="15" font-family="Helvetica, Arial, sans-serif" font-weight="700">FEATURED MIX</text>
+    <text x="52" y="236" fill="white" font-size="34" font-family="Helvetica, Arial, sans-serif" font-weight="700">JIIX Daily Mix</text>
+    <text x="52" y="276" fill="#E4F8EA" font-size="16" font-family="Helvetica, Arial, sans-serif">Fresh pop, late night R&amp;B, dan playlist fokus.</text>
+    <rect x="52" y="300" width="120" height="42" rx="21" fill="white"/>
+    <text x="84" y="327" fill="black" font-size="17" font-family="Helvetica, Arial, sans-serif" font-weight="700">Play Now</text>
+
+    <text x="28" y="402" fill="white" font-size="22" font-family="Helvetica, Arial, sans-serif" font-weight="700">Browse by Mood</text>
+    <g fill="#FFFFFF14">
+      <rect x="28" y="422" width="88" height="38" rx="19"/>
+      <rect x="126" y="422" width="82" height="38" rx="19"/>
+      <rect x="218" y="422" width="86" height="38" rx="19"/>
+      <rect x="314" y="422" width="78" height="38" rx="19"/>
+    </g>
+    <g fill="white" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="700">
+      <text x="55" y="446">Focus</text>
+      <text x="150" y="446">Party</text>
+      <text x="243" y="446">Drive</text>
+      <text x="333" y="446">Chill</text>
+    </g>
+
+    <text x="28" y="506" fill="white" font-size="22" font-family="Helvetica, Arial, sans-serif" font-weight="700">Trending Now</text>
+    <g>
+      <rect x="28" y="526" width="364" height="92" rx="24" fill="#FFFFFF10"/>
+      <rect x="28" y="632" width="364" height="92" rx="24" fill="#FFFFFF10"/>
+      <rect x="28" y="738" width="364" height="92" rx="24" fill="#FFFFFF10"/>
+      <rect x="44" y="542" width="60" height="60" rx="16" fill="#1ED760"/>
+      <rect x="44" y="648" width="60" height="60" rx="16" fill="#F97066"/>
+      <rect x="44" y="754" width="60" height="60" rx="16" fill="#54B5FF"/>
+      <text x="122" y="566" fill="white" font-size="18" font-family="Helvetica, Arial, sans-serif" font-weight="700">Skyline Pulse</text>
+      <text x="122" y="590" fill="#98A2B3" font-size="14" font-family="Helvetica, Arial, sans-serif">Aurora Lane • Pop</text>
+      <text x="122" y="672" fill="white" font-size="18" font-family="Helvetica, Arial, sans-serif" font-weight="700">Neon Afterglow</text>
+      <text x="122" y="696" fill="#98A2B3" font-size="14" font-family="Helvetica, Arial, sans-serif">Mira Sol • Dance</text>
+      <text x="122" y="778" fill="white" font-size="18" font-family="Helvetica, Arial, sans-serif" font-weight="700">Midnight Code</text>
+      <text x="122" y="802" fill="#98A2B3" font-size="14" font-family="Helvetica, Arial, sans-serif">Polar Echo • Electronic</text>
+    </g>
+  </g>
+
+  <g transform="translate(590 220)" filter="url(#shadow)">
+    <rect width="420" height="820" rx="44" fill="url(#phone)" stroke="#1D2939" stroke-width="3"/>
+    <rect x="152" y="18" width="116" height="24" rx="12" fill="#0A0B0E"/>
+    <text x="34" y="76" fill="white" font-size="20" font-family="Helvetica, Arial, sans-serif" font-weight="700">Mini Player</text>
+
+    <rect x="28" y="640" width="364" height="84" rx="24" fill="#FFFFFF1A" stroke="#FFFFFF12"/>
+    <rect x="42" y="654" width="56" height="56" rx="16" fill="#26F265"/>
+    <text x="116" y="680" fill="white" font-size="18" font-family="Helvetica, Arial, sans-serif" font-weight="700">Skyline Pulse</text>
+    <text x="116" y="704" fill="#98A2B3" font-size="14" font-family="Helvetica, Arial, sans-serif">Aurora Lane</text>
+    <circle cx="352" cy="682" r="22" fill="white"/>
+    <polygon points="346,670 346,694 364,682" fill="black"/>
+
+    <text x="28" y="142" fill="#98A2B3" font-size="18" font-family="Helvetica, Arial, sans-serif">Mini player mengambang di atas tab bar</text>
+    <text x="28" y="180" fill="#98A2B3" font-size="18" font-family="Helvetica, Arial, sans-serif">saat lagu sedang diputar.</text>
+  </g>
+
+  <g transform="translate(1060 220)" filter="url(#shadow)">
+    <rect width="420" height="820" rx="44" fill="url(#phone)" stroke="#1D2939" stroke-width="3"/>
+    <rect x="152" y="18" width="116" height="24" rx="12" fill="#0A0B0E"/>
+    <text x="34" y="76" fill="white" font-size="20" font-family="Helvetica, Arial, sans-serif" font-weight="700">Now Playing</text>
+
+    <rect x="50" y="126" width="320" height="320" rx="30" fill="url(#art)"/>
+    <text x="210" y="504" text-anchor="middle" fill="white" font-size="32" font-family="Helvetica, Arial, sans-serif" font-weight="700">Skyline Pulse</text>
+    <text x="210" y="536" text-anchor="middle" fill="#D0D5DD" font-size="20" font-family="Helvetica, Arial, sans-serif">Aurora Lane</text>
+    <text x="210" y="572" text-anchor="middle" fill="#98A2B3" font-size="15" font-family="Helvetica, Arial, sans-serif">Bright electro-pop anthem for city drives.</text>
+
+    <rect x="50" y="620" width="320" height="6" rx="3" fill="#FFFFFF24"/>
+    <rect x="50" y="620" width="138" height="6" rx="3" fill="#26F265"/>
+    <text x="50" y="652" fill="#98A2B3" font-size="13" font-family="Helvetica, Arial, sans-serif">2:14</text>
+    <text x="338" y="652" fill="#98A2B3" font-size="13" font-family="Helvetica, Arial, sans-serif">6:13</text>
+
+    <circle cx="116" cy="726" r="32" fill="#FFFFFF14"/>
+    <circle cx="210" cy="726" r="42" fill="white"/>
+    <circle cx="304" cy="726" r="32" fill="#FFFFFF14"/>
+    <polygon points="104,714 104,738 122,726" fill="white"/>
+    <rect x="203" y="712" width="8" height="28" rx="4" fill="black"/>
+    <rect x="217" y="712" width="8" height="28" rx="4" fill="black"/>
+    <polygon points="316,714 316,738 298,726" fill="white"/>
+  </g>
+</svg>
